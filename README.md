@@ -6,6 +6,7 @@
 ### SCREEN1 : FRAME
 ### SCREEN2 : PRE SEALING
 ### SCREEN3 : POST SEALING
+### SCREEN4 : FRAME2(ver4.69.00 추가)
 
 # 설명
 ## 1. MEASURE(치수측정)
