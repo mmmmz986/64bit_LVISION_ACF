@@ -1,6 +1,11 @@
 # SWITCH REEL SIDE VISION
 ### ACF 1, 2, 3(ver3.68.00)
+#### LINK : https://marin0806.tistory.com/204
+#### PASSWORD : vision_project1
+
 ### ACF 4(ver4.69.00)
+#### LINK : https://marin0806.tistory.com/205 : ACF 4
+#### PASSWORD : vision_project2
 
 # 구성
 ### SCREEN1 : FRAME
