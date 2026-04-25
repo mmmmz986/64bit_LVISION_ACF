@@ -5,7 +5,7 @@
 #### SCREEN : 1, 2, 3
 
 ### ACF 4(ver4.69.00)
-#### LINK : https://marin0806.tistory.com/205 : ACF 4
+#### LINK : https://marin0806.tistory.com/205
 #### PASSWORD : vision_project2
 #### SCREEN : 1, 2, 3, 4
 
